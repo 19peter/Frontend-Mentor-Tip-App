@@ -271,13 +271,14 @@ h1 {
 
     .tip_percent {
         width: 120px;
-        margin-left: 30px;
+        margin-left: 40px;
     }
 
     .custom_inp {
-        width: 115px;
+        width: 117px;
         margin-left: 30px;
         text-align: center;
+        margin-left: 40px;
     }
 
     .attribution {
