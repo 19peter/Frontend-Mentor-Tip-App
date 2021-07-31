@@ -43,8 +43,8 @@ body {
 .container {
     display: flex;
     flex-direction: row;
-    width: 800px;
-    height: 410px;
+    width: 850px;
+    height: 450px;
     background-color: white;
     border-radius: 20px;
     justify-content: center;
@@ -52,7 +52,7 @@ body {
     /* scale: 0; */
     transition: 0.5s ease-in-out;
     position: relative;
-    right: 40px;
+    left: 20px;
 }
 
 .container h6 {
@@ -69,7 +69,7 @@ body {
 
 
 #tipInput, #peopleInput {
-    width: 295px;
+    width: 315px;
     height: 35px;
     background-color: hsl(189, 41%, 97%);
     border:  transparent 1px;
