@@ -252,8 +252,10 @@ h1 {
 
 /* ***********************************MEDIA QUERY*********************************** */
 
-@media (max-width: 925px) {
+@media (min-width: 300px) and (max-width: 925px) {
     .container {
+        position: relative;
+        left: -110px;
         width: 400px;
         height: 850px;
         flex-direction: column;
